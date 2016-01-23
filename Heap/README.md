@@ -1,1 +1,3 @@
-# Heap data structure based on k-ary (array-based) tree
+# Heap data structure
+
+Based on k-ary array-based tree
